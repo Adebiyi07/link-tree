@@ -65,7 +65,7 @@ const Profile = () => {
       <div className="header">
         <h1 className="title-header username">Adebiyi John</h1>
         <h2 className="slack-title" id="slack">
-          JeremiahLateef
+          Adebiyi07
         </h2>
       </div>
     </React.Fragment>
