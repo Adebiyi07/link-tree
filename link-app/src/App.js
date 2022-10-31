@@ -30,7 +30,7 @@ const linksContent = [
   {
     linkName: "Python Books",
     id: "btn__python",
-    link: "https://books.zuri.team/python-for-beginners?ref_id=JeremiahLateef",
+    link: "https://books.zuri.team/python-for-beginners?ref_id=Adebiyi07",
     title:
       "Stuck in python? Purchase this book to help you understand the fundamentals of coding",
   },
