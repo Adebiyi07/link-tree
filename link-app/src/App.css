@@ -78,7 +78,7 @@ p {
 .header {
   margin-bottom: 1.5rem;
 }
-.slack-title {
+#slack {
   display: none;
 }
 .title-header {
@@ -141,6 +141,28 @@ p {
 .zuri {
   height: 100%;
 }
+
+button {
+  display: block;
+  margin: 1em;
+  width: 90%;
+  height: 4em;
+  margin-left: 7%;
+  border-radius: 0.5em;
+  border: none hsl(220, 17%, 93%);
+  color: rgba(0, 0, 0, 0.896);
+  font-weight: 600;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+button:hover {
+  border: solid 1.5px hsl(217, 16%, 84%);
+  filter: brightness(90%);
+  cursor: pointer;
+}
+a:link {
+  text-decoration: none;
+}
+
 @media screen and (min-width: 768px) {
   .link {
     font-size: 18px;
